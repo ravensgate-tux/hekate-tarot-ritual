@@ -50,6 +50,5 @@
 
 ---
 
-🌀このプロトコルは「Open Source Witchcraft」プロジェクトの一環として公開されています。
-非商用・クレジットありであれば、どなたでも自由に使用・改変・共有いただけます。
-（ライセンス：CC BY-NC-SA）
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
